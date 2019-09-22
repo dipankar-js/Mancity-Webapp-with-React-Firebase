@@ -1,4 +1,4 @@
-##  `Virtual ManCity WebAPP using React in frontEnd and Firebase in Backend.It includes signin features and a admin panel to add and remove new players and Add upcoming matches.`
+Virtual ManCity WebAPP using React in frontEnd and Firebase in Backend.It includes signin features and a admin panel to add and remove new players and Add upcoming matches.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
