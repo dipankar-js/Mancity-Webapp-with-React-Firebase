@@ -1,3 +1,5 @@
+## Virtual ManCity WebAPP using React in frontEnd and Firebase in Backend.It includes signin features and a admin panel to add and remove new players and Add upcoming matches.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 This Project is hosted in Netlify [Click Here for Demo ](https://m-city-e2777.firebaseapp.com/).
