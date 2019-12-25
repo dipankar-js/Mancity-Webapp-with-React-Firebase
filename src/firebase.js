@@ -6,12 +6,12 @@ import 'firebase/storage'
 
 
 const config = {
-    apiKey: "AIzaSyC2t7nQMM1jLYAWVCCKYuugqHBrghs4ypc",
-    authDomain: "m-city-e2777.firebaseapp.com",
-    databaseURL: "https://m-city-e2777.firebaseio.com",
-    projectId: "m-city-e2777",
-    storageBucket: "m-city-e2777.appspot.com",
-    messagingSenderId: "667551981831"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: ""
   };
 
 firebase.initializeApp(config);
